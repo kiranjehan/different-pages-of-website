@@ -1,0 +1,51 @@
+ h1 {
+    font-family: "Dancing Script", cursive;
+    
+ }
+  p{font-family:"Dancing Script", cursive;
+
+  }
+
+ .carousel-item img {
+    width: 50%;
+    height: 80vh;
+ }
+
+ .abc {
+    margin: auto !important;
+    width: 70% !important
+ }
+  .card1:hover{
+   background:radial-gradient(circle, #c04848,#480048);
+   color:#fff ;
+   
+   
+  }
+
+
+ body {
+    background-color:black !important;
+ }
+
+ .ds {
+    width: 20px !important;
+ }
+
+ .sst {
+    width: 70%;
+    border-radius: 30%;
+
+ }
+
+ .container{
+   display: inline;
+   justify-content: space-between;
+ }
+ .card:hover{
+   transform:scale(1.2);
+   transition:1s;
+   box-shadow: 0px 0px 30px #e5ff00;
+ }
+
+
+ 
